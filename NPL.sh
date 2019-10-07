@@ -2,7 +2,7 @@
     echo  ""
 	echo  "$COL         ██╗      █████╗ ███████╗██╗   ██╗$CE v 1.0"
 	echo  "$COL         ██║     ██╔══██╗╚══███╔╝╚██╗ ██╔╝$CE"
-	echo  "$COL         ██║     ███████║  ███╔╝  ╚████╔╝ $CE   by "$COL"THE UNKNOWN"
+	echo  "$COL         ██║     ███████║  ███╔╝  ╚████╔╝ $CE   by "$COL"Mr. Ansari M.Saeem"
 	echo  "$COL         ██║     ██╔══██║ ███╔╝    ╚██╔╝  $CE"
 	echo  "$COL    The  ███████╗██║  ██║███████╗   ██║  script$CE"
 	echo  "$COL         ╚══════╝╚═╝  ╚═╝╚══════╝   ╚═╝   $CE"
